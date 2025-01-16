@@ -36,7 +36,7 @@ pipeline {
 
    cd /tmp/clone; 
 
-   git clone https://<your token>@github.com/<your repo>/devops_repo.git; 
+   git clone https://Token Lesson10@github.com/divya577/devops_repo.git; 
 
                  targets=puppetclient1.localdomain; 
 
