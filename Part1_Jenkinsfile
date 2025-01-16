@@ -36,7 +36,7 @@ pipeline {
 
    cd /tmp/clone; 
 
-   git clone https://github.com/divya577/devops_repo.git; 
+   git clone  -b Prod https://github.com/divya577/devops_repo.git; 
 
                  targets=puppetclient1.localdomain; 
 
